@@ -2,7 +2,7 @@
 
 html, body, #root {
   font: 0.9rem sans-serif;
-  background: #0a1f44;
+  background: #3c78e0;
   color: #1e2432;
   height: 100%;
   margin: 0;
@@ -20,6 +20,7 @@ html, body, #root {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+
 }
 
 .search {
@@ -93,3 +94,5 @@ p {
       padding: 40px 20%;
   }
 }
+
+
